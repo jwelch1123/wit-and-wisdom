@@ -1,5 +1,13 @@
 # Wit, Wisdom, and Vector Embeddings
 
+![Static Badge](https://img.shields.io/badge/Python-grey?logo=python) 
+![Static Badge](https://img.shields.io/badge/Dash-grey?logo=plotly) 
+![Static Badge](https://img.shields.io/badge/Plotly_Express-grey?logo=plotly)
+![Static Badge](https://img.shields.io/badge/scikit--learn-grey?logo=scikitlearn)
+![Static Badge](https://img.shields.io/badge/SentenceTransformers-grey)
+
+
+
 ## Description
 "Wit, Wisdom, and Vector Embeddings" explores the timeless wisdom contained within Ben Franklin's "Poor Richard's Almanack," which from 1732 to 1758 offered a mix of farming advice, calendars, poems, and proverbs on human nature and morality. This project uses modern data science techniques to cluster these sayings by their meaning; vector embeddings and dimensionality reduction are employed to visually map the similarities among Franklin's insights.
 
