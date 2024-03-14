@@ -15,7 +15,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler, RobustScaler, \
 # Refactor back to MVP and push to git. Then spend time on the choices.
 
 #### Data Import
-quotes = pd.read_csv('wit_and_wisdoms.csv')
+quotes = pd.read_csv('assets/wit_and_wisdoms.csv')
 
 # Data options for language model, reducer, scaler
 # Make sure import statements reflect all options
@@ -92,7 +92,7 @@ app = Dash(__name__)
 app.layout = html.Div([
     html.H1('Wit, Wisdom, & Weights'),
     html.H3('A Visual Exploration of Poor Richard\'s Almanack'),
-    html.H5('Wit: James Welch \n Wisdom: Benjamin Franklin'),
+    html.H5('Wit: James Welch | Wisdom: Benjamin Franklin'),
     dcc.Markdown('''
                     From 1732 to 1758, Ben Franklin published "Poor Richard's Almanack," an influential publication \
                     filled with farming information, calendars, poems, and proverbs offering insights into human nature and morality.\
