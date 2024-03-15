@@ -17,7 +17,7 @@ Werkzeug==1.0.1
 
 # Used for my app
 pandas==1.2.4
-scipy==1.6.1
+scipy>1.6.1
 sentence_transformers==2.3.1
 umap-learn==0.5.5
 sklearn==0.0
