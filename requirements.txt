@@ -1,18 +1,13 @@
 # Minimum Requirements for a plotly dash app
-Brotli
-click
 dash==2.15.0
-#dash-core-components==2.0.2
-#dash-html-components==2.0.2
-plotly==5.3.1
+plotly
 Flask==2.0.2
 itsdangerous
 Jinja2
 MarkupSafe
-plotly
 six
 tenacity
-Werkzeug
+Werkzeug==2.2.2
 
 
 # Used for my app
