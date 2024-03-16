@@ -15,7 +15,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler, RobustScaler, \
 # Refactor back to MVP and push to git. Then spend time on the choices.
 
 #### Data Import
-quotes = pd.read_csv('assets/wit_and_wisdoms.csv')
+quotes = pd.read_csv('wit_and_wisdoms.csv')
 
 # Data options for language model, reducer, scaler
 # Make sure import statements reflect all options

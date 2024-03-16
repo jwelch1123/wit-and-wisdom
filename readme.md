@@ -61,4 +61,4 @@ This project is currently in a functional state, ready for exploration and use. 
 ## Credits
 Photo by [Vinicius "amnx" Amano](https://unsplash.com/@viniciusamano?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/yellow-and-white-christmas-tree-6ZwDvEabfmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-Thanks to Austin Lasseter for this guide on [Heroku deployment](https://austinlasseter.medium.com/how-to-deploy-a-simple-plotly-dash-app-to-heroku-622a2216eb73)
+Thanks to Austin Lasseter for this guide on [Heroku deployment](https://austinlasseter.medium.com/how-to-deploy-a-simple-plotly-dash-app-to-heroku-622a2216eb73) (unimplemented due to slug size)
