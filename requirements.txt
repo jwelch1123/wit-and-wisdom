@@ -14,7 +14,7 @@ Werkzeug>2.2.2
 pandas>1.2.4
 scipy>1.6.1
 #sentence_transformers==2.3.1
-#umap-learn==0.5.5
+umap-learn==0.5.5
 scikit-learn
 
 # For Heroku
