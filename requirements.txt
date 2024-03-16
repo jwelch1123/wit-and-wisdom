@@ -1,21 +1,21 @@
 # Minimum Requirements for a plotly dash app
-dash==2.15.0
+dash>2.15.0
 plotly
-Flask==2.0.2
+Flask>2.0.2
 itsdangerous
 Jinja2
 MarkupSafe
 six
 tenacity
-Werkzeug==2.2.2
+Werkzeug>2.2.2
 
 
 # Used for my app
-pandas==1.2.4
-scipy>1.6.1
-sentence_transformers==2.3.1
-umap-learn==0.5.5
-scikit-learn
+#pandas==1.2.4
+#scipy>1.6.1
+#sentence_transformers==2.3.1
+#umap-learn==0.5.5
+#scikit-learn
 
 # For Heroku
 gunicorn==20.1.0
